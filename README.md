@@ -1,3 +1,5 @@
+![Trusty Logo](https://raw.githubusercontent.com/trusty-editor/design/master/trusty.png)
+
 # utils
 This crate contains several utilities and structures needed for Trusty 
 but not worthy of having their own repository and crate. Examples 
